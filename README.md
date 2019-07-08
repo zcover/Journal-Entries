@@ -12,3 +12,21 @@
  <script>
     //js
 </script>
+
+
+
+
+
+
+## Terminal Commands
+
+- cd "Change Directory"
+- ls "lists all _visible_ files within current directory"
+- ls -a "lists _all_ files within current directory, including those that are invisible"
+- mkdir "Creates a directory/folder within the current directory/folder"
+- mv "moves a file/folder/directory to another location"
+        - mv _filename_ _location you want to move to_
+- touch "creates a file/directory, depending on if you specify a file type or not."
+- rm "Removes/deletes a _file_ to the trash"
+    - rm -r "Removes/deletes a _folder/directory_"
+    - rm -rf "**DO NOT USE** Forcefully removes file without asking for authorization"
