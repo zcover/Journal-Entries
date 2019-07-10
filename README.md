@@ -8,6 +8,9 @@
 
 
 ### HTML 
+
+- We name our homepage _index.html_ because browsers are programed to look for a file named index, and treat it ast the homepage
+
  - Styled by inserting
  <script>
     //js
@@ -30,3 +33,4 @@
 - rm "Removes/deletes a _file_ to the trash"
     - rm -r "Removes/deletes a _folder/directory_"
     - rm -rf "**DO NOT USE** Forcefully removes file without asking for authorization"
+- explorer.exe _filename_ "will open the specified file with the default browser for _windows computers_
